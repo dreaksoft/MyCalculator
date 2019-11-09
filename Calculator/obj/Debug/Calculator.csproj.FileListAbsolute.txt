@@ -1,0 +1,5 @@
+/Users/krai/RiderProjects/ConsoleApplication/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
+/Users/krai/RiderProjects/ConsoleApplication/Calculator/bin/Debug/Calculator.exe
+/Users/krai/RiderProjects/ConsoleApplication/Calculator/bin/Debug/Calculator.pdb
+/Users/krai/RiderProjects/ConsoleApplication/Calculator/obj/Debug/Calculator.exe
+/Users/krai/RiderProjects/ConsoleApplication/Calculator/obj/Debug/Calculator.pdb
